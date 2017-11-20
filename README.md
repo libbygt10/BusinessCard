@@ -1,3 +1,3 @@
-This is code for a sample business card that I created. I was learning the basics of CSS, and this project seemed appropriate for me to test out my new skills. 
+This is code for a sample business card design that I had created. I was learning the basics of CSS at the time, and this project seemed appropriate for me to test out my new skills. 
 
 
